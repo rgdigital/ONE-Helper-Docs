@@ -160,7 +160,7 @@ one.Platform.BeOn.hideControlBar();
 ### `showControlBar` method
 This shows the video control bar. 
 ```javascript
-one.Platform.BeOn.hideControlBar();
+one.Platform.BeOn.showControlBar();
 ```
 
 ### `hidePoster` method
