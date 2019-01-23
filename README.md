@@ -176,7 +176,7 @@ one.Platform.BeOn.showPoster();
 ```
 
 ### `showAd` method
-Sets the main vidible wrapper to opacity = 1. There is no hideAd method as this is set in the extras page as a config for the `onehelper_beon_extra.js` extra. To do this, add `{"hideAd" : true}` as the config object.
+Sets the main vidible wrapper to opacity = 1. There is no hideAd method as this is set in the extras page as a config for the `onehelper_beon_extra.js` extra. To do this, add `{"hideAd" : true}` as the config object in the BeOn portal where the extra is added.
 ```javascript
 one.Platform.BeOn.showAd();
 ```
